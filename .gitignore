@@ -1,1 +1,3 @@
 Comprehensive-Guide-to-Graph-Algorithms-in-Neo4j-ebook-EN-US.pdf
+*.ipynb_checkpoints*
+*__pycache__*
