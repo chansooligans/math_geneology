@@ -43,14 +43,24 @@
 # 6. Schools
 
 - Data Source
-	- the Mathematics Genealogy Project (https://genealogy.math.ndsu.nodak.edu/) collects information on math, computer science, statistics academics, including when and where they got their PhD and when and where their students got their PhDs
-	- can we use this information to spot trends in the movements of academics between universities (e.g. PhD from university A, advised students at university B)
-	- can we use this information to rank schools' graduate math programs?
+    - As a case study and to show a quick applied toy example, we used data from the Mathematics Geneology Project
+	- The Mathematics Genealogy Project (https://genealogy.math.ndsu.nodak.edu/) collects information on math, computer science, statistics academics, including when and where they got their PhD and when and where their students got their PhDs
+    - And so some questions to ask might be:
+        - can we use this information to spot trends in the movements of academics between universities (e.g. PhD from university A, advised students at university B)
+        - can we use this information to rank schools' graduate math programs?
+    - So you must have completed a PhD to be in the database. And for each mathematcian, their database has the school where the person obtained their PhD and if they advised any students, the list of mathematicians that they advised
+    - This database goes back to the 1500s and we scraped their entire site and we used all the data.
+    - So how to turn this into a network?
+    - We did this at a school level. So each school gets a node. Then an edge from school A to school B exists if someone completed their degree in school A then advised students at school B. Right, so we might expect really prestigious school to have lots of connections relative to less prestigious ones. 
+
 - Show Graph and Summary Statistics (Whole Graph + Subsets)
+    - Summary statistics:
+        - The network has 3358 nodes (3358 schools)
+        - And 31547 edges -- meaning 31547 pairwise combinations between schools indicating that someone graduated from school A then taught at school B.
+    
 - Explain Nodex + Edges (properties)
 - Hierarchy of Schools + Change Over Time
 	- Eigenvector Centrality
 - Community Detection
 
 # 7. Conclusions
-
