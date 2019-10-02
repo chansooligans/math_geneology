@@ -1,0 +1,249 @@
+school,country
+The University of Chicago,USA
+Harvard University,USA
+The Johns Hopkins University,USA
+Cornell University,USA
+Princeton University,USA
+University of Michigan,USA
+University of Illinois at Urbana-Champaign,USA
+Yale University,USA
+Columbia University,USA
+University of Wisconsin-Madison,USA
+Williams College,USA
+"University of California, Berkeley",USA
+California Institute of Technology,USA
+Rensselaer Polytechnic Institute,USA
+University of Texas at Austin,USA
+Massachusetts Institute of Technology,USA
+Stanford University,USA
+Brown University,USA
+New York University,USA
+Universität Zürich,Switzerland
+Uppsala Universitet,Sweden
+Universität Königsberg,Russia
+Lomonosov Moscow State University,Russia
+Kazan State University,Russia
+St. Petersburg State University,Russia
+Universität Breslau,Poland
+Uniwersytet Warszawski,Poland
+Universiteit Leiden,Netherlands
+Universiteit Utrecht,Netherlands
+Rijksuniversiteit Groningen,Netherlands
+Universiteit Franeker,Netherlands
+Athenaeum Illustre Amsterdam,Netherlands
+Universiteit van Amsterdam,Netherlands
+Universiteit Harderwijk,Netherlands
+Università degli Studi di Pavia,Italy
+Università di Torino,Italy
+Università di Pisa,Italy
+Università Degli Studi di Modena e Reggio Emilia,Italy
+"Trinity College, Dublin",Ireland
+Eötvös Loránd University,Hungary
+Universität Berlin,Germany
+Georg-August-Universität Göttingen,Germany
+Ludwig-Maximilians-Universität München,Germany
+Universität Leipzig,Germany
+Martin-Luther-Universität Halle-Wittenberg,Germany
+Ruprecht-Karls-Universität Heidelberg,Germany
+Rheinische Friedrich-Wilhelms-Universität Bonn,Germany
+Humboldt-Universität zu Berlin,Germany
+Justus-Liebig-Universität Gießen,Germany
+Universität Helmstedt,Germany
+Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany
+Friedrich-Schiller-Universität Jena,Germany
+Eberhard-Karls-Universität Tübingen,Germany
+Universität Erfurt,Germany
+Albert-Ludwigs-Universität Freiburg im Breisgau,Germany
+Philipps-Universität Marburg,Germany
+Kaiserlich-königliche Technische Militärakademie,Germany
+Bayerische Julius-Maximilians-Universität Würzburg,Germany
+Ernst-Moritz-Arndt-Universität Greifswald,Germany
+Christian-Albrechts-Universität zu Kiel,Germany
+Technische Universität München,Germany
+Westfälische Wilhelms-Universität Münster,Germany
+Technische Universität Darmstadt,Germany
+Hohe Karlsschule Stuttgart,Germany
+Ludwig-Maximilians-Universität Landshut,Germany
+Technische Universität Berlin,Germany
+Technische Universität Bergakademie Freiberg,Germany
+Universität Hamburg,Germany
+Universität Straßburg,France
+Collège de France,France
+École Normale Supérieure Paris,France
+Université de Paris,France
+École Polytechnique,France
+"Faculté des Sciences, Paris",France
+Université Paris IV-Sorbonne,France
+Université de Caen,France
+Hôpital de la Charité de Paris,France
+Académie royale des sciences de Paris,France
+University of Cambridge,England
+University of Oxford,England
+University of London,England
+University of Copenhagen,Denmark
+Karl-Ferdinand-Universität Prag,Czech Republic
+University of Prague,Czech Republic
+Universiteit Gent,Belgium
+Universität Wien,Austria
+Universität Innsbruck,Austria
+Technische Universität Wien,Austria
+Université Pierre-et-Marie-Curie - Paris VI,France
+"University of California, Los Angeles",USA
+University of Minnesota-Minneapolis,USA
+Université Paris-Sud XI - Orsay,France
+Purdue University,USA
+University of Maryland College Park,USA
+Carnegie Mellon University,USA
+University of Washington,USA
+University of Pennsylvania,USA
+ETH Zürich,Switzerland
+The University of North Carolina at Chapel Hill,USA
+The Ohio State University,USA
+Northwestern University,USA
+University of Toronto,Canada
+Université Paris Diderot - Paris 7,
+University of Rochester,
+University of Warwick,
+"Rutgers University, New Brunswick",
+Iowa State University,
+Johann Wolfgang Goethe-Universität Frankfurt am Main,
+The Pennsylvania State University,
+Indiana University,
+University of Waterloo,
+Victoria University of Manchester,
+"University of California, San Diego",
+Tulane University,
+State University of New York at Stony Brook,
+Karlsruher Institut für Technologie (KIT),
+Steklov Institute of Mathematics,
+Georgia Institute of Technology,
+University of Iowa,
+Michigan State University,
+Rheinisch-Westfälische Technische Hochschule Aachen,
+University of Utah,
+Rice University,
+Imperial College London,
+Freie Universität Berlin,
+University of Virginia,
+University of British Columbia,
+University of Southern California,
+Australian National University,
+Universität Stuttgart,
+Louisiana State University,
+Syracuse University,
+Universität des Saarlandes,
+Johannes Gutenberg-Universität Mainz,
+University of Colorado Boulder,
+University of Kansas,
+University of Massachusetts Amherst,
+Hebrew University,
+Katholieke Universiteit Leuven,
+Texas A&M University,
+Duke University,
+Florida State University,
+Universität zu Köln,
+Universität Bielefeld,
+Case Western Reserve University,
+University of Alberta,
+Université Libre de Bruxelles,
+McGill University,
+École Polytechnique Fédérale de Lausanne,
+Université Bordeaux 1,
+University of Edinburgh,
+Université Paris IX - Dauphine,
+Charles University,
+Uniwersytet Jagielloński,
+Brandeis University,
+Université Paul Sabatier - Toulouse III,
+University of Oregon,
+Technische Universität Dresden,
+University of Pittsburgh,
+Scuola Normale Superiore di Pisa,
+University of Bucharest,
+Washington University in St. Louis,
+Ruhr-Universität Bochum,
+Università di Roma La Sapienza,
+"University of California, Davis",
+University of Florida,
+Universidad Complutense de Madrid,
+Universität Graz,
+University of Arizona,
+Virginia Polytechnic Institute and State University,
+University of Leeds,
+Université de Genève,
+Universität Basel,
+"Indian Statistical Institute, Kolkata",
+London School of Economics and Political Science,
+Université Joseph Fourier Grenoble I,
+"University of California, Santa Barbara",
+University of Birmingham,
+Université de Nice-Sophia Antipolis,
+Université Claude Bernard Lyon 1,
+Instituto de Matemática Pura e Aplicada,
+Université Henri Poincaré Nancy 1,
+Voronezh State University,
+North Carolina State University,
+Scuola Internazionale Superiore di Studi Avanzati,
+Tel Aviv University,
+University of Notre Dame,
+Technische Hochschule Stuttgart,
+University of Tokyo,
+Technische Universiteit Delft,
+Stockholm University,
+Helsingin yliopisto,
+Gottfried Wilhelm Leibniz Universität Hannover,
+Weizmann Institute of Science,
+École Normale Supérieure de Lyon,
+Technische Universiteit Eindhoven,
+"Sobolev Institute of Mathematics, Novosibirsk",
+Polska Akademia Nauk,
+Université Louis Pasteur - Strasbourg I,
+State University of New York at Buffalo,
+Universität Rostock,
+Queen's University at Kingston,
+Technische Universität Carolo-Wilhelmina zu Braunschweig,
+Vrije Universiteit Amsterdam,
+University of Sheffield,
+University of Tennessee - Knoxville,
+Wayne State University,
+Novosibirsk State University,
+University of Illinois at Chicago,
+Universität Dortmund,
+Universität Bremen,
+Colorado State University,
+École Normale Supérieure de Cachan,
+University of Lwów,
+Boston University,
+University of Missouri - Columbia,
+Università degli Studi di Milano,
+Université Rennes I,
+Université Catholique de Louvain,
+University of New Mexico,
+Queen's University of Belfast,
+Universidad de Zaragoza,
+University of Liverpool,
+Katholieke Universiteit Nijmegen,
+"Institute of Mathematics, Polish Academy of Sciences",
+Oklahoma State University,
+Uniwersytet Wrocławski,
+University of Belgrade,
+Illinois Institute of Technology,
+Universidad de Buenos Aires,
+Technische Universität Kaiserslautern,
+Kungliga Tekniska Högskolan,
+Université de Montréal,
+Technische Universität Chemnitz,
+Universität Kaiserslautern,
+Universitat Politècnica de Catalunya,
+Arizona State University,
+University of Newcastle Upon Tyne,
+Polytechnic University,
+Universidad de Barcelona,
+Universität Paderborn,
+Aarhus University,
+Kiev State University,
+Institut National Polytechnique de Grenoble,
+University of Nebraska-Lincoln,
+Lehigh University,
+Universität Duisburg-Essen,
+University of Georgia,
