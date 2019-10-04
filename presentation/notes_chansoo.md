@@ -1,6 +1,13 @@
 # 1. What are Graphs?
+- graphs are mathematical structures consisting of objects (called nodes or vertices) and connections between objects (called edges or arrows)
+- edges can have direction, in other words a starting vertex and ending vertex
+  - for example in a social network with people as nodes, two friends have an undirected connection but if one person follows another can be a directed edge
+- a graph is called directed if the edges have direction, undirected otherwise
+- nodes and edges can have properties, the most common such property is a number called a weight
+  - for example, in a network where the nodes are subway stations and the edges represent tracks connecting the stations, the weight of an edge could be the length of the tracks 
 
 # 2. History
+
 
 # 3. Use Cases
 

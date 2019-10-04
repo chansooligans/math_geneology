@@ -91,6 +91,28 @@ def make_school_digraph(student_df):
     return school_digraph
 
 
+def make_school_graph(student_df):
+    """
+    make a schools graph from student data
+    """
+    schools_df = pd.concat([student_df[[c]].rename(columns = {c: "school"}) for c in ["student_school", "advisor_school"]]).drop_duplicates()
+    
+    school_graph = nx.Graph()
+    # Nodes are schools (student and advisors) identified by name
+    school_graph.add_nodes_from(schools_df.school.values)
+    
+    # Edges connect advisor and student schools and are weighted by the number of advisor-students
+    student_df["school_pair"] = np.where(
+        student_df["student_school"] < student_df["advisor_school"],
+        student_df["student_school"] + '|' + student_df["advisor_school"],
+        student_df["advisor_school"] + '|' + student_df["student_school"])
+    
+    edges_df = student_df.groupby(["school_pair"], as_index = False).agg({"student_id": "count"})
+    edges = [(e["school_pair"].split("|")[0], e["school_pair"].split("|")[1], {"weight": e["student_id"]}) for e in edges_df.to_dict(orient = "records")]
+    school_graph.add_edges_from(edges)
+    return school_graph
+
+
 def draw_graph_layout(graph, layout, ax):
     """
     draw the graph with the given layout on the given axis
